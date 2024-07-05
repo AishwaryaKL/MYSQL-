@@ -1,4 +1,4 @@
--- GTRGYG
+
 create database myproject;
 show databases;
 use myproject;
